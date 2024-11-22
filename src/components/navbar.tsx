@@ -10,6 +10,7 @@ import React from 'react'
 
 export const Navbar: React.FC = async () => {
     return (
+        // type anything in between <nav> and </nav> and it will show at the top of the web page
         <nav>
             
         </nav>
